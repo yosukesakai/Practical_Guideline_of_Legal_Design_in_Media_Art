@@ -35,12 +35,12 @@ Practical Guideline of Legal Design in Media Art
 
 ## 構成  
 
-
-[メディアアートにおけるリーガルデザインの実践的ガイドライン ](https://github.com/******/master/Practical_Guideline_of_Legal_Design_in_Media_Art.md)  
+[メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guideline_of_Legal_Design_in_Media_Art/blob/master/Practical_Guideline_of_Legal_Design_in_Media_Art.md)  
  
 
 
 ## 関連情報
+
 オープン化のリーガルデザインについての情報は、[オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/)を参照ください。  
 
 YCAMにおけるオープン化を伴うリーガルデザインの事例([YCAMにおけるオープン化の試み](http://special.ycam.jp/interlab/projects/open-sharing.html))を含んでいます。  
